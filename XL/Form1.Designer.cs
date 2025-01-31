@@ -35,12 +35,13 @@
             // 
             // button1
             // 
+            button1.BackColor = SystemColors.ActiveCaption;
             button1.Location = new Point(60, 313);
             button1.Name = "button1";
             button1.Size = new Size(203, 89);
             button1.TabIndex = 0;
             button1.Text = "button1";
-            button1.UseVisualStyleBackColor = true;
+            button1.UseVisualStyleBackColor = false;
             button1.Click += button1_Click;
             // 
             // button2
@@ -64,6 +65,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = SystemColors.ControlDark;
             ClientSize = new Size(800, 450);
             Controls.Add(textBox1);
             Controls.Add(button2);

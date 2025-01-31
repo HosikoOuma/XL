@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Neko\\source\\repos\\XL\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7E2A93CB-B942-4198-BE78-E9430EE6DDD5}|XL\\XL.csproj|c:\\users\\neko\\source\\repos\\xl\\xl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2A93CB-B942-4198-BE78-E9430EE6DDD5}|XL\\XL.csproj|solutionrelative:xl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7E2A93CB-B942-4198-BE78-E9430EE6DDD5}|XL\\XL.csproj|c:\\users\\neko\\source\\repos\\xl\\xl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7E2A93CB-B942-4198-BE78-E9430EE6DDD5}|XL\\XL.csproj|solutionrelative:xl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Neko\\source\\repos\\XL\\XL\\Form1.cs",
+              "RelativeDocumentMoniker": "XL\\Form1.cs",
+              "ToolTip": "C:\\Users\\Neko\\source\\repos\\XL\\XL\\Form1.cs",
+              "RelativeToolTip": "XL\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T19:11:19.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\Neko\\source\\repos\\XL\\XL\\Form1.cs",
               "RelativeDocumentMoniker": "XL\\Form1.cs",
