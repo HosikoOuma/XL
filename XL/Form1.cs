@@ -16,6 +16,7 @@ namespace XL
         {
             textBox1 = new TextBox();
             MessageBox.Show($"{textBox1}");
+            Application.Exit();
         }
     }
 }
