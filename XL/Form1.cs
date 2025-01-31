@@ -14,7 +14,8 @@ namespace XL
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            textBox1 = new TextBox();
+            MessageBox.Show($"{textBox1}");
         }
     }
 }
